@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/epita/AI%20methodology/PopularityOnlineNews/popularityonlinenews/mlruns/0/41b348b1d4cc448198e08c9fdfae21a4/artifacts
+end_time: 1676293001590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41b348b1d4cc448198e08c9fdfae21a4
+run_name: chill-dove-836
+run_uuid: 41b348b1d4cc448198e08c9fdfae21a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676293001528
+status: 4
+tags: []
+user_id: tingf

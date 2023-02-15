@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/epita/AI%20methodology/PopularityOnlineNews/popularityonlinenews/mlruns/240466053974433269/3fceed613f1a4c5080261aa0a07415e8/artifacts
+end_time: 1676293209472
+entry_point_name: ''
+experiment_id: '240466053974433269'
+lifecycle_stage: active
+run_id: 3fceed613f1a4c5080261aa0a07415e8
+run_name: abrasive-kite-568
+run_uuid: 3fceed613f1a4c5080261aa0a07415e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676293200331
+status: 4
+tags: []
+user_id: tingf

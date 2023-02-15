@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/epita/AI%20methodology/PopularityOnlineNews/popularityonlinenews/mlruns/240466053974433269/53843ff7a0cc434889486d1e5deeb6b5/artifacts
+end_time: 1676412927718
+entry_point_name: ''
+experiment_id: '240466053974433269'
+lifecycle_stage: active
+run_id: 53843ff7a0cc434889486d1e5deeb6b5
+run_name: model_2023-02-14, 23:15:09
+run_uuid: 53843ff7a0cc434889486d1e5deeb6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676412909536
+status: 3
+tags: []
+user_id: tingf
