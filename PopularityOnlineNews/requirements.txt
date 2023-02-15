@@ -1,0 +1,12 @@
+sphinx
+cookiecutter
+pandas
+dotenv
+click
+scikit-learn
+joblib
+numpy
+scipy
+matplotlib
+shap
+eli5

@@ -1,0 +1,27 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.1.1
+model_uuid: c17f86c7f68e4e5cb83249fb94746a3b
+run_id: 00adc998b47e43d997f5acfcf25b6ed1
+signature:
+  inputs: '[{"name": "kw_avg_avg", "type": "double"}, {"name": "weekday_is_saturday",
+    "type": "double"}, {"name": "self_reference_avg_sharess", "type": "double"}, {"name":
+    "average_token_length", "type": "double"}, {"name": "n_unique_tokens", "type":
+    "double"}, {"name": "avg_positive_polarity", "type": "double"}, {"name": "num_hrefs",
+    "type": "double"}, {"name": "global_subjectivity", "type": "double"}, {"name":
+    "num_videos", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-02-14 22:12:38.296402'

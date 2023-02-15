@@ -1,0 +1,6 @@
+artifact_location: file:///D:/epita/AI%20methodology/PopularityOnlineNews/popularityonlinenews/mlruns/240466053974433269
+creation_time: 1676293199974
+experiment_id: '240466053974433269'
+last_update_time: 1676293199974
+lifecycle_stage: active
+name: ep_popularity_news_with_random_forest

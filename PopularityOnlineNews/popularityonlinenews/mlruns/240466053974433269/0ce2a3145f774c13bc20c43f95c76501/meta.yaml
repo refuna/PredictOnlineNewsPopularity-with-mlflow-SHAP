@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/epita/AI%20methodology/PopularityOnlineNews/popularityonlinenews/mlruns/240466053974433269/0ce2a3145f774c13bc20c43f95c76501/artifacts
+end_time: 1676293580745
+entry_point_name: ''
+experiment_id: '240466053974433269'
+lifecycle_stage: active
+run_id: 0ce2a3145f774c13bc20c43f95c76501
+run_name: efficient-frog-442
+run_uuid: 0ce2a3145f774c13bc20c43f95c76501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676293571638
+status: 4
+tags: []
+user_id: tingf
