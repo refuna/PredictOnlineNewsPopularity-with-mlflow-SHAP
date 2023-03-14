@@ -4,7 +4,7 @@ popularity-online-news
 
 On articles published by Mashable (mashable.com), let's determine weather an article is popular or not based on social linking and article features.
 
-Project Organization
+Project Organization with CookieCutter
 ------------
 
     ├── LICENSE
